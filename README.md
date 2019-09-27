@@ -15,4 +15,4 @@ For run this code you must use some of code like this with the number, which you
 convertToRoman(3990);
 
 ## LICENSE
-The MIT License - See [license.md](https://github.com/hajczek/roman_numeral_converter/blob/master/license/License.md)
+The MIT License - See [license.md](https://github.com/hajczek/roman-numeral-converter/blob/master/license/License.md)
